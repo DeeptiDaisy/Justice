@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm madhavan vv</h1>
+<h1 align="center">Hi 👋, I'm Deepti</h1>
 It's  a  Frontend  Web Development Project using HTML and CSS.
 
 ## Webpage
